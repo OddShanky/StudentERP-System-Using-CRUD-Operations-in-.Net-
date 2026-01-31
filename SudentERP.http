@@ -1,0 +1,6 @@
+@SudentERP_HostAddress = http://localhost:5144
+
+GET {{SudentERP_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
